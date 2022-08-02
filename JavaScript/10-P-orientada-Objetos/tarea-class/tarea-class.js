@@ -16,6 +16,5 @@ class Estudiante {
         console.log(`Mi nombre es ${this.nombre} y mis asignaturas son ${asignaturas}`)
     }
 }
-
 let estudiante2 = new Estudiante("Lorenzo", true)
 console.log(estudiante2)
