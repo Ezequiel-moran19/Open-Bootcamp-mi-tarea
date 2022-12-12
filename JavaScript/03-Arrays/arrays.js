@@ -1,4 +1,6 @@
 // FORMAS DE BARRER UN ARRAY
+
+
 //1) For
 function barrerArrayConFor(){
 
